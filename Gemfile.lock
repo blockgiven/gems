@@ -1,0 +1,24 @@
+GIT
+  remote: git://github.com/blockgiven/gems.git
+  revision: e8b417c7f158bb592c91b6613c097f466ffdd1be
+  branch: hola
+  specs:
+    hola (1.0.0)
+
+GIT
+  remote: git://github.com/blockgiven/gems.git
+  revision: d67cc6ef3bfb8869015cbf4afb77772aace57efa
+  branch: konnichi_wa
+  specs:
+    konnichi_wa (1.0.0)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hola!
+  konnichi_wa!
